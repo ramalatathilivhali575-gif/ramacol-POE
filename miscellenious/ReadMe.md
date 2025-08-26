@@ -1,0 +1,1 @@
+On this day my website was breaking i couldnt move back from gallery to home page but it was fixed.
